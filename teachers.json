@@ -1,0 +1,72 @@
+[
+    {
+        "name": "name",
+        "profession": "profession",
+        "number": "number",
+        "imagelink": "imagelink",
+        "education": "education"
+    },
+    {
+        "name": "মোঃহাবিবুর রহমান",
+        "profession": "সিনিয়র শিক্ষক(গণিত)",
+        "number": "01622539758",
+        "imagelink": "https://i.ibb.co.com/6vCmyrH/habib.png",
+        "education": "বিএসসি (সম্মান) এমএসসি (গণিত),বিএড\nজাতীয় বিশ্ববিদ্যালয়"
+    },
+    {
+        "name": "ফারজানা বেগম ",
+        "profession": "সিনিয়র শিক্ষক (বাংলা)",
+        "number": "01624791986",
+        "imagelink": "https://i.ibb.co.com/swRmJRM/download-4-removebg-preview-modified.png",
+        "education": "বিসএস (সম্মান) এমএসএস (সমাজবিজ্ঞান)\nচট্রগ্রাম বিশ্ববিদ্যালয় "
+    },
+    {
+        "name": "মো:আমিনুল ইসলাম ",
+        "profession": "সিনিয়র শিক্ষক (বাংলা)",
+        "number": "01818636510",
+        "imagelink": "https://i.ibb.co.com/HXxC537/amin.png",
+        "education": "বিএসএস (সম্মান) এমএসএস (রাষ্ট্রবিজ্ঞান),বিএড\nজাতীয় বিশ্ববিদ্যালয়"
+    },
+    {
+        "name": "মো:ইমতিয়াজ কবির",
+        "profession": "সিনিয়র শিক্ষক (মানবিক)",
+        "number": "01715103262",
+        "imagelink": "https://i.ibb.co.com/xF5zSN2/ima.png",
+        "education": "বিএসএস (সম্মান) এমএসএস (রাষ্ট্রবিজ্ঞান)বিএড \nঢাকা বিশ্ববিদ্যালয়"
+    },
+    {
+        "name": "মোহাম্মদ নাসির উদ্দিন খান ",
+        "profession": "সিনিয়র শিক্ষক (ইংরেজি)",
+        "number": "01929291594",
+        "imagelink": "https://i.ibb.co.com/bRnZPKf/nasir.png",
+        "education": "বিএ(সম্মান)জাতীয় বিশ্ববিদ্যালয় এম এ (ইংরেজি)\nউত্তরা বিশ্ববিদ্যালয় বেল্ট বাউবি"
+    },
+    {
+        "name": "মোহাম্মদ আবদুল মজিদ",
+        "profession": "সিনিয়র শিক্ষক (বাংলা)",
+        "number": "01824036920",
+        "imagelink": "https://i.ibb.co.com/tPmgGT2/mojid.png",
+        "education": "বিএ(সম্মান)এমএ(বাংলা)\nজাতীয় বিশ্ববিদ্যালয় "
+    },
+    {
+        "name": "খন্দকার রাশেদুল ইসলাম ",
+        "profession": "সিনিয়র শিক্ষক (শারীরিক শিক্ষা)",
+        "number": "01716874446",
+        "imagelink": "https://i.ibb.co.com/g47HmDT/rashed.png",
+        "education": "বিএসএস (পাস)বিপিএড\nজাতীয় বিশ্ববিদ্যালয় এমএ উত্তরা বিশ্ববিদ্যালয়"
+    },
+    {
+        "name": "সত্যরঞ্জন দাস ",
+        "profession": "সিনিয়র শিক্ষক (গণিত)",
+        "number": "01714965401",
+        "imagelink": "https://i.ibb.co.com/8z6BJx8/shotto.png",
+        "education": "বিএসসি (সম্মান)এমএসসি(গণিত) বিএড \nঢাকা বিশ্ববিদ্যালয়"
+    },
+    {
+        "name": "সাবিনা ইসাসমিন",
+        "profession": "সিনিয়র শিক্ষক (বিজ্ঞান)",
+        "number": "01822970087",
+        "imagelink": "https://i.ibb.co.com/rbzFhjG/sabina.png",
+        "education": "বিএসসি(সম্মান)এমএসসি(উদ্ভিদবিদ্যা)\nচট্রগ্রাম বিশ্ববিদ্যালয়\nবিএড(জাতীয় বিশ্ববিদ্যালয়)"
+    }
+]
